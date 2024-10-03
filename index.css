@@ -1,0 +1,9 @@
+body {
+    display: 50%;
+}
+
+div {
+    background-color: rgb(215, 183, 248);
+    margin: 10px;
+    padding: 15px;
+}
